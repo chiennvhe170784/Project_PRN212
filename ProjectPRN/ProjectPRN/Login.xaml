@@ -1,0 +1,58 @@
+﻿<Window x:Class="ProjectPRN.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectPRN"
+        mc:Ignorable="d"
+        Title="Login" Height="400" Width="600" Background="#F0F4F7">
+    <Grid RenderTransformOrigin="0.506,0.534">
+        <Grid.Resources>
+            <Style TargetType="Label">
+                <Setter Property="FontFamily" Value="Segoe UI" />
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="Foreground" Value="#333333" />
+                <Setter Property="Margin" Value="0,0,0,10" />
+            </Style>
+            <Style TargetType="TextBox">
+                <Setter Property="FontFamily" Value="Segoe UI" />
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="Padding" Value="5" />
+                <Setter Property="BorderBrush" Value="#87AFC8" />
+                <Setter Property="BorderThickness" Value="1" />
+            </Style>
+            <Style TargetType="PasswordBox">
+                <Setter Property="FontFamily" Value="Segoe UI" />
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="Padding" Value="5" />
+                <Setter Property="BorderBrush" Value="#87AFC8" />
+                <Setter Property="BorderThickness" Value="1" />
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="FontFamily" Value="Segoe UI" />
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="Padding" Value="5" />
+                <Setter Property="Margin" Value="10,0" />
+                <Setter Property="Background" Value="#4CAF50" />
+                <Setter Property="Foreground" Value="White" />
+                <Setter Property="BorderBrush" Value="#388E3C" />
+                <Setter Property="BorderThickness" Value="1" />
+                <Setter Property="Cursor" Value="Hand" />
+            </Style>
+        </Grid.Resources>
+
+        <Label Content="LOGIN" HorizontalAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" FontSize="25" FontFamily="Segoe UI Variable Display Semibold" Foreground="#195978" />
+        <GroupBox Height="250" Width="350" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#195978" BorderBrush="#87AFC8">
+            <StackPanel Margin="20">
+                <Label Content="Username" />
+                <TextBox x:Name="tbxUserL" TextWrapping="Wrap" KeyDown="keyDownUserL" />
+                <Label Content="Password" Margin="0,20,0,0" />
+                <PasswordBox x:Name="tbxPassL" KeyDown="keyDownPassL" />
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+                    <Button Content="Login" Width="100" Click="Button_Login_Click" />
+                    <Button Content="Register" Width="100" Background="#FFDC4747" BorderBrush="#FFDC4747" Click="Button_Register_Click" />
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>
