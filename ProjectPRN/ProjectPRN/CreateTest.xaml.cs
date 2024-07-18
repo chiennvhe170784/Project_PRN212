@@ -43,8 +43,8 @@ namespace ProjectPRN
                     q.Question1,
                     q.Answer,
                     q.CorrectAnswer,
-
-                }).ToList();
+                    q.Status,
+                }).Where(x => x.Status == 1).ToList();
                 QuestionListBox.ItemsSource = data;
             }
             catch (Exception ex)
@@ -60,10 +60,10 @@ namespace ProjectPRN
         {
 
         }
-     
+
         private void CheckBox_Checked(object sender, RoutedEventArgs e)
         {
-           
+
             if (sender is CheckBox checkBox)
             {
                 if (checkBox.Tag is int questionId)
@@ -72,10 +72,10 @@ namespace ProjectPRN
                     {
                         if (checkBox.IsChecked == true && (context.TestQuestions.FirstOrDefault(x => x.Code == txtCode.Text && x.Qid == questionId) == null))
                         {
-                            MessageBox.Show($"Đã chọn câu hỏi có Id: {questionId}");
+                            //MessageBox.Show($"Đã chọn câu hỏi có Id: {questionId}");
                             if (!listQID.Contains(questionId)) { listQID.Add(questionId); }
                         }
-                        
+
 
                     }
                     else
@@ -132,12 +132,10 @@ namespace ProjectPRN
                 if (context.TestQuestions.FirstOrDefault(x => x.Qid == tq.Qid && x.Code == tq.Code) == null)
                 {
                     context.TestQuestions.Add(tq);
-                    MessageBox.Show(tq.Code);
-                   
 
                 }
-             
-             
+
+
 
 
             }
@@ -192,7 +190,7 @@ namespace ProjectPRN
                     if (checkBox.IsChecked == false)
                     {
 
-                        MessageBox.Show($"Đã bỏ chọn câu hỏi có Id: {questionId}");
+                        //MessageBox.Show($"Đã bỏ chọn câu hỏi có Id: {questionId}");
                         listQID.Remove(questionId);
                     }
 
@@ -231,28 +229,38 @@ namespace ProjectPRN
                 return;
             }
             var q = QuestionListBox.SelectedItem as dynamic;
-            answerQ.Text = q.Answer;
+            answerQ.Text = q.Question1;
 
         }
 
         private List<Question> getRandomQ(int numQ)
         {
-            List<Question> l1 = context.Questions.ToList();
-            Random rd = new Random();
-            List<Question> result = l1.OrderBy(i => rd.Next()).Take(numQ).ToList();
 
-            return result;
+            List<Question> l1 = context.Questions.ToList();
+            int numberQuestion = l1.Count;
+            if (numberQuestion >= numQ)
+            {
+                Random rd = new Random();
+                List<Question> result = l1.OrderBy(i => rd.Next()).Take(numQ).ToList();
+
+                return result;
+            }
+            else
+            {
+                MessageBox.Show("Number question too latger!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                return null;
+            }
         }
+
+
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-          
-           
+
+
+
             try
             {
-               
-               
-
 
                 if (context.Tests.FirstOrDefault(x => x.Code == txtCode.Text) != null)
                 {
@@ -264,9 +272,9 @@ namespace ProjectPRN
                     MessageBox.Show("Name test da ton tai!", "Duplicated key", MessageBoxButton.OK, MessageBoxImage.Warning);
                     return;
                 }
-              
-                
-                if (ChooseQuestion.IsChecked==true)
+
+
+                if (ChooseQuestion.IsChecked == true)
                 {
 
                     foreach (var id in listQID)
@@ -275,12 +283,19 @@ namespace ProjectPRN
                     }
                     context.SaveChanges();
                     MessageBox.Show("Create test success!");
-                }else if (RandomQuestion.IsChecked==true) {
+                }
+                else if (RandomQuestion.IsChecked == true)
+                {
                     List<Question> listQ1 = getRandomQ(Convert.ToInt32(numberQ.Text));
-                    foreach (var question in listQ1) {
-                        AddQuestion(question.Qid);
+                    if (listQ1 == null) return;
+                    else
+                    {
+                        foreach (var question in listQ1)
+                        {
+                            AddQuestion(question.Qid);
+                        }
+                        context.SaveChanges();
                     }
-                    context.SaveChanges();
                 }
 
 
@@ -294,8 +309,8 @@ namespace ProjectPRN
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-     
-            
+
+
             Login lg = new Login();
             lg.Show();
             this.Close();
@@ -303,8 +318,11 @@ namespace ProjectPRN
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-
+            EditQuestion ed = new EditQuestion();
+            ed.Show();
+            this.Close();
         }
+
 
     }
 }

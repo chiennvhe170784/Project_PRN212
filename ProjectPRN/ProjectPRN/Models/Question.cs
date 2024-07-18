@@ -13,5 +13,7 @@ public partial class Question
 
     public string CorrectAnswer { get; set; } = null!;
 
+    public int Status { get; set; }
+
     public virtual ICollection<TestQuestion> TestQuestions { get; set; } = new List<TestQuestion>();
 }

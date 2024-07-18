@@ -1,66 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PRN212_SE1804_Class\\ProjectPRN\\",
+  "WorkspaceRootPath": "D:\\Project_PRN212\\ProjectPRN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|d:\\prn212_se1804_class\\projectprn\\projectprn\\editquestion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\editquestion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|d:\\prn212_se1804_class\\projectprn\\projectprn\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\PRN212_SE1804_Class\\ProjectPRN\\projectprn\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|d:\\prn212_se1804_class\\projectprn\\projectprn\\models\\dataprnquizcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\dataprnquizcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|d:\\prn212_se1804_class\\projectprn\\projectprn\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\PRN212_SE1804_Class\\ProjectPRN\\projectprn\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|d:\\prn212_se1804_class\\projectprn\\projectprn\\models\\testquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\testquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|d:\\prn212_se1804_class\\projectprn\\projectprn\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\PRN212_SE1804_Class\\ProjectPRN\\projectprn\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\PRN212_SE1804_Class\\ProjectPRN\\projectprn\\createtest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\createtest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\PRN212_SE1804_Class\\ProjectPRN\\projectprn\\createtest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\createtest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\PRN212_SE1804_Class\\ProjectPRN\\projectprn\\inputcode.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\inputcode.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\PRN212_SE1804_Class\\ProjectPRN\\projectprn\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\PRN212_SE1804_Class\\ProjectPRN\\projectprn\\quiz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|d:\\project_prn212\\projectprn\\projectprn\\quiz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\quiz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\PRN212_SE1804_Class\\ProjectPRN\\projectprn\\inputcode.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\inputcode.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\Project_PRN212\\ProjectPRN\\projectprn\\quiz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\quiz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\Project_PRN212\\ProjectPRN\\projectprn\\createtest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\createtest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\Project_PRN212\\ProjectPRN\\projectprn\\editquestion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\editquestion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\Project_PRN212\\ProjectPRN\\projectprn\\editquestion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\editquestion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\Project_PRN212\\ProjectPRN\\projectprn\\createtest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\createtest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\Project_PRN212\\ProjectPRN\\projectprn\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\Project_PRN212\\ProjectPRN\\projectprn\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\Project_PRN212\\ProjectPRN\\projectprn\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\Project_PRN212\\ProjectPRN\\projectprn\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\Project_PRN212\\ProjectPRN\\projectprn\\models\\testquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\testquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\Project_PRN212\\ProjectPRN\\projectprn\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|D:\\Project_PRN212\\ProjectPRN\\projectprn\\models\\dataprnquizcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D44668-AD77-4F64-8035-AFE88BCC401D}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\dataprnquizcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,8 +62,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 506,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditQuestion.xaml.cs",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\EditQuestion.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\EditQuestion.xaml.cs",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\EditQuestion.xaml.cs",
+              "RelativeToolTip": "ProjectPRN\\EditQuestion.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAPIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:44:07.058Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -79,184 +84,142 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\App.xaml",
-              "RelativeDocumentMoniker": "ProjectPRN\\App.xaml",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\App.xaml",
-              "RelativeToolTip": "ProjectPRN\\App.xaml",
+              "Title": "Quiz.xaml",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Quiz.xaml",
+              "RelativeDocumentMoniker": "ProjectPRN\\Quiz.xaml",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Quiz.xaml*",
+              "RelativeToolTip": "ProjectPRN\\Quiz.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-10T05:06:58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T09:06:11.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Models\\Question.cs",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Models\\Question.cs",
+              "RelativeToolTip": "ProjectPRN\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:33:44.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTest.xaml",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\CreateTest.xaml",
+              "RelativeDocumentMoniker": "ProjectPRN\\CreateTest.xaml",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\CreateTest.xaml",
+              "RelativeToolTip": "ProjectPRN\\CreateTest.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-12T03:52:53.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTest.xaml.cs",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\CreateTest.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\CreateTest.xaml.cs",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\CreateTest.xaml.cs",
+              "RelativeToolTip": "ProjectPRN\\CreateTest.xaml.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAADgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T03:53:10.845Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EditQuestion.xaml",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\EditQuestion.xaml",
-              "RelativeDocumentMoniker": "ProjectPRN\\EditQuestion.xaml",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\EditQuestion.xaml",
-              "RelativeToolTip": "ProjectPRN\\EditQuestion.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-10T05:06:40.503Z",
+              "Title": "Quiz.xaml.cs",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Quiz.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Quiz.xaml.cs",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Quiz.xaml.cs",
+              "RelativeToolTip": "ProjectPRN\\Quiz.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAALkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:37:12.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DataPrnquizContext.cs",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Models\\DataPrnquizContext.cs",
-              "RelativeDocumentMoniker": "ProjectPRN\\Models\\DataPrnquizContext.cs",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Models\\DataPrnquizContext.cs",
-              "RelativeToolTip": "ProjectPRN\\Models\\DataPrnquizContext.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAACQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T05:03:01.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Test.cs",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Models\\Test.cs",
-              "RelativeDocumentMoniker": "ProjectPRN\\Models\\Test.cs",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Models\\Test.cs",
-              "RelativeToolTip": "ProjectPRN\\Models\\Test.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T05:03:00.134Z",
-              "EditorCaption": ""
+              "Title": "EditQuestion.xaml",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\EditQuestion.xaml",
+              "RelativeDocumentMoniker": "ProjectPRN\\EditQuestion.xaml",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\EditQuestion.xaml",
+              "RelativeToolTip": "ProjectPRN\\EditQuestion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-11T16:43:38.915Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TestQuestion.cs",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Models\\TestQuestion.cs",
-              "RelativeDocumentMoniker": "ProjectPRN\\Models\\TestQuestion.cs",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Models\\TestQuestion.cs",
-              "RelativeToolTip": "ProjectPRN\\Models\\TestQuestion.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T05:02:54.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "InputCode.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\InputCode.xaml.cs",
-              "RelativeDocumentMoniker": "ProjectPRN\\InputCode.xaml.cs",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\InputCode.xaml.cs",
-              "RelativeToolTip": "ProjectPRN\\InputCode.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T17:27:27.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateTest.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\CreateTest.xaml.cs",
-              "RelativeDocumentMoniker": "ProjectPRN\\CreateTest.xaml.cs",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\CreateTest.xaml.cs",
-              "RelativeToolTip": "ProjectPRN\\CreateTest.xaml.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T16:27:24.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "History.xaml",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\History.xaml",
-              "RelativeDocumentMoniker": "ProjectPRN\\History.xaml",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\History.xaml",
-              "RelativeToolTip": "ProjectPRN\\History.xaml",
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\App.xaml",
+              "RelativeDocumentMoniker": "ProjectPRN\\App.xaml",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\App.xaml",
+              "RelativeToolTip": "ProjectPRN\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-07T16:32:27.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "History.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\History.xaml.cs",
-              "RelativeDocumentMoniker": "ProjectPRN\\History.xaml.cs",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\History.xaml.cs",
-              "RelativeToolTip": "ProjectPRN\\History.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T16:32:32.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Question.cs",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Models\\Question.cs",
-              "RelativeDocumentMoniker": "ProjectPRN\\Models\\Question.cs",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Models\\Question.cs",
-              "RelativeToolTip": "ProjectPRN\\Models\\Question.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T16:23:16.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Login.xaml",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Login.xaml",
-              "RelativeDocumentMoniker": "ProjectPRN\\Login.xaml",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Login.xaml",
-              "RelativeToolTip": "ProjectPRN\\Login.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-09T07:36:29.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "History.cs",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Models\\History.cs",
-              "RelativeDocumentMoniker": "ProjectPRN\\Models\\History.cs",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Models\\History.cs",
-              "RelativeToolTip": "ProjectPRN\\Models\\History.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T16:16:38.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T06:54:20.345Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CreateTest.xaml",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\CreateTest.xaml",
-              "RelativeDocumentMoniker": "ProjectPRN\\CreateTest.xaml",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\CreateTest.xaml",
-              "RelativeToolTip": "ProjectPRN\\CreateTest.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-09T10:02:25.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Quiz.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Quiz.xaml.cs",
-              "RelativeDocumentMoniker": "ProjectPRN\\Quiz.xaml.cs",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\Quiz.xaml.cs",
-              "RelativeToolTip": "ProjectPRN\\Quiz.xaml.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAkwLcAAAA0AAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Models\\User.cs",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Models\\User.cs",
+              "RelativeToolTip": "ProjectPRN\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T16:18:39.797Z"
+              "WhenOpened": "2024-07-12T15:34:06.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "InputCode.xaml",
-              "DocumentMoniker": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\InputCode.xaml",
-              "RelativeDocumentMoniker": "ProjectPRN\\InputCode.xaml",
-              "ToolTip": "D:\\PRN212_SE1804_Class\\ProjectPRN\\ProjectPRN\\InputCode.xaml",
-              "RelativeToolTip": "ProjectPRN\\InputCode.xaml",
+              "DocumentIndex": 11,
+              "Title": "History.cs",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Models\\History.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Models\\History.cs",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Models\\History.cs",
+              "RelativeToolTip": "ProjectPRN\\Models\\History.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:25:36.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataPrnquizContext.cs",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Models\\DataPrnquizContext.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Models\\DataPrnquizContext.cs",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Models\\DataPrnquizContext.cs",
+              "RelativeToolTip": "ProjectPRN\\Models\\DataPrnquizContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:25:37.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Login.xaml",
+              "RelativeDocumentMoniker": "ProjectPRN\\Login.xaml",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Login.xaml",
+              "RelativeToolTip": "ProjectPRN\\Login.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-07T17:27:26.408Z"
+              "WhenOpened": "2024-07-12T06:54:08.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestQuestion.cs",
+              "DocumentMoniker": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Models\\TestQuestion.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Models\\TestQuestion.cs",
+              "ToolTip": "D:\\Project_PRN212\\ProjectPRN\\ProjectPRN\\Models\\TestQuestion.cs",
+              "RelativeToolTip": "ProjectPRN\\Models\\TestQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:20:33.467Z"
             }
           ]
         }

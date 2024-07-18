@@ -36,6 +36,7 @@ public partial class DataPrnquizContext : DbContext
         optionsBuilder.UseSqlServer(configuration.GetConnectionString("MyCnn"));
     }
 
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<History>(entity =>
@@ -81,6 +82,9 @@ public partial class DataPrnquizContext : DbContext
             entity.Property(e => e.Question1)
                 .IsUnicode(false)
                 .HasColumnName("question");
+            entity.Property(e => e.Status)
+                .HasDefaultValue(1)
+                .HasColumnName("status");
         });
 
         modelBuilder.Entity<Test>(entity =>

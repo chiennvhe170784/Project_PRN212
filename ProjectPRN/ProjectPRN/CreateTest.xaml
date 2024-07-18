@@ -43,7 +43,7 @@
         <Label Content="Enter Name" HorizontalAlignment="Left" Margin="412,172,0,0" VerticalAlignment="Top" Height="24"/>
         <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="608,167,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" Height="29"  />
         <TextBox x:Name="answerQ"  Margin="498,37,0,0" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Top" Height="43" Width="281"/>
-        <Label Content="Answer" HorizontalAlignment="Left" Margin="407,37,0,0" VerticalAlignment="Top" Height="29" Width="48"/>
+        <Label Content="Question" HorizontalAlignment="Left" Margin="407,41,0,0" VerticalAlignment="Top" Height="29" Width="68"/>
 
     </Grid>
 </Window>

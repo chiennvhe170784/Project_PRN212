@@ -119,6 +119,16 @@ namespace ProjectPRN
 
 
         }
+        //private String[] splitAns(string Answer)
+        //{
+        //    string[] parts = Answer.Split(new char[] { ')' }, StringSplitOptions.RemoveEmptyEntries);
+        //    for (int i = 0; i < parts.Length; i++)
+        //    {
+        //        parts[i] = parts[i].Replace(".A", "").Replace(".B", "").Replace(".C", "").Replace(".D", "");
+        //    }
+        //    return parts;
+
+        //}
         private void SaveCurrentAnswer()
         {
             if (rdbA.IsChecked == true)
